@@ -157,7 +157,7 @@ console.log(props.data.Hobbies.includes("Cricket"))
           files: files,
           scores:scores
         };
-        let res = await Axios.post("http://localhost:3001/Student/edit", obj);
+        let res = await Axios.post("https://cryptic-thicket-09728.herokuapp.com/Student/edit", obj);
         if (res.status === 200) {
           alert("Student Added.");
           // setName("")
