@@ -23,7 +23,7 @@ const connection=async()=>{
 connection()
 app.use(cors())
 app.use('/Student',Student)
-app.listen(3001,()=>{console.log("Listening")})
+app.listen(process.env.PORT,()=>{console.log("Listening")})
 
 
 
