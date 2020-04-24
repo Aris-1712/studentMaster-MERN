@@ -3,7 +3,7 @@
 This is a simple Student Master to demonstrate CRUD on MERN stack. It uses cloud MongoDB and the backend is hosted on Heroku.
 I have also used Firebase to hold the files/images as a storage bucket.
 
-Live Preview:https://aris-1712.github.io/studentMaster-MERN/
+Live Preview: https://aris-1712.github.io/studentMaster-MERN/
 -------------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
